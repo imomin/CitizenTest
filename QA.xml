@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <categories>
+    <category name="AMERICAN GOVERNMENT">
+      <subcategory name="Principles of American Democracy">
+        <questions>
+          <question id="1" text="What is the supreme law of the land?">
+            <audio>Track 01.mp3</audio>
+            <answers>
+              <answer>The Constitution</answer>
+            </answers>
+          </question>
+          <question id="2" text="What does the Constitution do?">
+            <audio>Track 02.mp3</audio>
+            <answers>
+              <answer>sets up the government</answer>
+              <answer>defines the government</answer>
+              <answer>protects basic rights of Americans</answer>
+            </answers>
+          </question>
+          <question id="3" text="The idea of self-government is in the first three words of the Constitution. What are these words?">
+            <audio>Track 03.mp3</audio>
+            <answers>
+              <answer>We the People</answer>
+            </answers>
+          </question>
+          <question id="4" text="What is an amendment?">
+            <audio>Track 04.mp3</audio>
+            <answers>
+              <answer>a change (to the Constitution)</answer>
+              <answer>an addition (to the Constitution)</answer>
+            </answers>
+          </question>
+          <question id="5" text="What do we call the first ten amendments to the Constitution?">
+            <audio>Track 05.mp3</audio>
+            <answers>
+              <answer>the Bill of Rights</answer>
+            </answers>
+          </question>
+          <question id="6" text="What is ONE right or freedom from the First Amendment?*">
+            <audio>Track 06.mp3</audio>
+            <answers>
+              <answer>speech</answer>
+              <answer>religion</answer>
+              <answer>assembly</answer>
+              <answer>press</answer>
+              <answer>petition the government</answer>
+            </answers>
+          </question>
+          <question id="7" text="How many amendments does the Constitution have?">
+            <audio>Track 07.mp3</audio>
+            <answers>
+              <answer>twenty-seven (27)</answer>
+            </answers>
+          </question>
+          <question id="8" text="What did the Declaration of Independence do?">
+            <audio>Track 08.mp3</audio>
+            <answers>
+              <answer>announced our independence (from Great Britain)</answer>
+              <answer>declared our independence (from Great Britain)</answer>
+              <answer>said that the United States is free (from Great Britain)</answer>
+            </answers>
+          </question>
+          <question id="9" text="What are TWO rights in the Declaration of Independence?">
+            <audio>Track 09.mp3</audio>
+            <answers>
+              <answer>life</answer>
+              <answer>liberty</answer>
+              <answer>pursuit of happiness</answer>
+            </answers>
+          </question>
+          <question id="10" text="What is freedom of religion?">
+            <audio>Track 10.mp3</audio>
+            <answers>
+              <answer>You can practice any religion, or not practice a religion.</answer>
+            </answers>
+          </question>
+          <question id="11" text="What is the economic system in the United States?*">
+            <audio>Track 11.mp3</audio>
+            <answers>
+              <answer>capitalist economy</answer>
+              <answer>market economy</answer>
+            </answers>
+          </question>
+          <question id="12" text="What is the &quot;rule of law&quot;?">
+            <audio>Track 12.mp3</audio>
+            <answers>
+              <answer>Everyone must follow the law</answer>
+              <answer>Leaders must obey the law</answer>
+              <answer>Government must obey the law</answer>
+              <answer>No one is above the law</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+      <subcategory name="System of Government">
+        <questions>
+          <question id="13" text="Name ONE branch or part of the government*">
+            <audio>Track 13.mp3</audio>
+            <answers>
+              <answer>Congress</answer>
+              <answer>legislative</answer>
+              <answer>President</answer>
+              <answer>executive</answer>
+              <answer>the courts</answer>
+              <answer>judicial</answer>
+            </answers>
+          </question>
+          <question id="14" text="What stops ONE branch of government from becoming too powerful?">
+            <audio>Track 14.mp3</audio>
+            <answers>
+              <answer>checks and balances</answer>
+              <answer>separation of powers</answer>
+            </answers>
+          </question>
+          <question id="15" text="Who is in charge of the executive branch?">
+            <audio>Track 15.mp3</audio>
+            <answers>
+              <answer>the President</answer>
+            </answers>
+          </question>
+          <question id="16" text="Who makes federal laws?">
+            <audio>Track 16.mp3</audio>
+            <answers>
+              <answer>Congress</answer>
+              <answer>Senate and House (of Representatives)</answer>
+              <answer>(U.S. or national) legislature</answer>
+            </answers>
+          </question>
+          <question id="17" text="What are the TWO parts of the U.S. Congress?*">
+            <audio>Track 17.mp3</audio>
+            <answers>
+              <answer>the Senate and House (of Representatives)</answer>
+            </answers>
+          </question>
+          <question id="18" text="How many U.S. Senators are there?">
+            <audio>Track 18.mp3</audio>
+            <answers>
+              <answer>one hundred (100)</answer>
+            </answers>
+          </question>
+          <question id="19" text="We elect a U.S. Senator for how many years?">
+            <audio>Track 19.mp3</audio>
+            <answers>
+              <answer>six (6)</answer>
+            </answers>
+          </question>
+          <question id="20" text="Who is ONE of your state's US. Senators now?*">
+            <audio>Track 20.mp3</audio>
+            <answers>
+              <answer>Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators.]</answer>
+            </answers>
+          </question>
+          <question id="21" text="The House of Representatives has how many voting members?">
+            <audio>Track 21.mp3</audio>
+            <answers>
+              <answer>four hundred thirty-five (435)</answer>
+            </answers>
+          </question>
+          <question id="22" text="We elect a U.S. Representative for how many years?">
+            <audio>Track 22.mp3</audio>
+            <answers>
+              <answer>two (2)</answer>
+            </answers>
+          </question>
+          <question id="23" text="Name your U.S. Representative.">
+            <audio>Track 23.mp3</audio>
+            <answers>
+              <answer>Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) Representatives in Congress.]</answer>
+            </answers>
+          </question>
+          <question id="24" text="Who does a U.S. Senator represent?">
+            <audio>Track 24.mp3</audio>
+            <answers>
+              <answer>all people of the state</answer>
+            </answers>
+          </question>
+          <question id="25" text="Why do some states have more Representatives than other states?">
+            <audio>Track 25.mp3</audio>
+            <answers>
+              <answer>(because of) the state's population</answer>
+              <answer>(because) they have more people</answer>
+              <answer>(because) some states have more people</answer>
+            </answers>
+          </question>
+          <question id="26" text="We elect a President for how many years?">
+            <audio>Track 26.mp3</audio>
+            <answers>
+              <answer>four (4)</answer>
+            </answers>
+          </question>
+          <question id="27" text="In what month do we vote for President?*">
+            <audio>Track 27.mp3</audio>
+            <answers>
+              <answer>November</answer>
+            </answers>
+          </question>
+          <question id="28" text="What is the name of the President of the United States now?*">
+            <audio>Track 28.mp3</audio>
+            <answers>
+              <answer>Barack Obama</answer>
+              <answer>Obama</answer>
+            </answers>
+          </question>
+          <question id="29" text="What is the name of the Vice President of the United States now?">
+            <audio>Track 29.mp3</audio>
+            <answers>
+              <answer>Joseph R. Biden, Jr.</answer>
+              <answer>Joe Biden</answer>
+              <answer>Biden</answer>
+            </answers>
+          </question>
+          <question id="30" text="If the President can no longer serve, who becomes President?">
+            <audio>Track 30.mp3</audio>
+            <answers>
+              <answer>the Vice President</answer>
+            </answers>
+          </question>
+          <question id="31" text="If both the President and the Vice President can no longer serve, who becomes President?">
+            <audio>Track 31.mp3</audio>
+            <answers>
+              <answer>the Speaker of the House</answer>
+            </answers>
+          </question>
+          <question id="32" text="Who is the Commander in Chief of the military?">
+            <audio>Track 32.mp3</audio>
+            <answers>
+              <answer>the President</answer>
+            </answers>
+          </question>
+          <question id="33" text="Who signs bills to become laws?">
+            <audio>Track 33.mp3</audio>
+            <answers>
+              <answer>the President</answer>
+            </answers>
+          </question>
+          <question id="34" text="Who vetoes bills?">
+            <audio>Track 34.mp3</audio>
+            <answers>
+              <answer>the President</answer>
+            </answers>
+          </question>
+          <question id="35" text="What does the President's Cabinet do?">
+            <audio>Track 35.mp3</audio>
+            <answers>
+              <answer>advises the President</answer>
+            </answers>
+          </question>
+          <question id="36" text="What are TWO Cabinet-level positions?">
+            <audio>Track 36.mp3</audio>
+            <answers>
+              <answer>Secretary of Agriculture</answer>
+              <answer>Secretary of Commerce</answer>
+              <answer>Secretary of Defense</answer>
+              <answer>Secretary of Education</answer>
+              <answer>Secretary of Energy</answer>
+              <answer>Secretary of Health and Human Services</answer>
+              <answer>Secretary of Homeland Security</answer>
+              <answer>Secretary of Housing and Urban Development</answer>
+              <answer>Secretary of the Interior</answer>
+              <answer>Secretary of Labor</answer>
+              <answer>Secretary of State</answer>
+              <answer>Secretary of Transportation</answer>
+              <answer>Secretary of the Treasury</answer>
+              <answer>Secretary of Veterans Affairs</answer>
+              <answer>Attorney General</answer>
+              <answer>Vice President</answer>
+            </answers>
+          </question>
+          <question id="37" text="What does the judicial branch do?">
+            <audio>Track 37.mp3</audio>
+            <answers>
+              <answer>reviews laws</answer>
+              <answer>explains laws</answer>
+              <answer>resolves disputes (disagreements)</answer>
+              <answer>decides if a law goes against the Constitution</answer>
+            </answers>
+          </question>
+          <question id="38" text="What is the highest court in the United States?">
+            <audio>Track 38.mp3</audio>
+            <answers>
+              <answer>the Supreme Court</answer>
+            </answers>
+          </question>
+          <question id="39" text="How many justices are on the Supreme Court?">
+            <audio>Track 39.mp3</audio>
+            <answers>
+              <answer>nine (9)</answer>
+            </answers>
+          </question>
+          <question id="40" text="Who is the Chief Justice of the United States now?">
+            <audio>Track 40.mp3</audio>
+            <answers>
+              <answer>John Roberts (John G. Roberts, Jr.)</answer>
+            </answers>
+          </question>
+          <question id="41" text="Under our Constitution, some powers belong to the federal government. What is ONE power of the federal government?">
+            <audio>Track 41.mp3</audio>
+            <answers>
+              <answer>to print money</answer>
+              <answer>to declare war</answer>
+              <answer>to create an army</answer>
+              <answer>to make treaties</answer>
+            </answers>
+          </question>
+          <question id="42" text="Under our Constitution, some powers belong to the states. What is ONE power of the states?">
+            <audio>Track 42.mp3</audio>
+            <answers>
+              <answer>provide schooling and education</answer>
+              <answer>provide protection (police)</answer>
+              <answer>provide safety (fire departments)</answer>
+              <answer>give a driver's license</answer>
+              <answer>approve zoning and land use</answer>
+            </answers>
+          </question>
+          <question id="43" text="Who is the Governor of your state now?">
+            <audio>Track 43.mp3</audio>
+            <answers>
+              <answer>Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.]</answer>
+            </answers>
+          </question>
+          <question id="44" text="What is the capital of your state?*">
+            <audio>Track 44.mp3</audio>
+            <answers>
+              <answer>Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]</answer>
+            </answers>
+          </question>
+          <question id="45" text="What are the TWO major political parties in the United States?*">
+            <audio>Track 45.mp3</audio>
+            <answers>
+              <answer>Democratic and Republican</answer>
+            </answers>
+          </question>
+          <question id="46" text="What is the political party of the President now?">
+            <audio>Track 46.mp3</audio>
+            <answers>
+              <answer>Democratic (Party)</answer>
+            </answers>
+          </question>
+          <question id="47" text="What is the name of the Speaker of the House of Representatives now?">
+            <audio>Track 47.mp3</audio>
+            <answers>
+              <answer>(John) Boehner</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+      <subcategory name=" Rights and Responsibilities">
+        <questions>
+          <question id="48" text="There are four amendments to the Constitution about who can vote. Describe ONE of them.">
+            <audio>Track 48.mp3</audio>
+            <answers>
+              <answer>Citizens eighteen (18) and older (can vote).</answer>
+              <answer>You don't have to pay (a poll tax) to vote.</answer>
+              <answer>Any citizen can vote. (Women and men can vote.)</answer>
+              <answer>A male citizen of any race (can vote).</answer>
+            </answers>
+          </question>
+          <question id="49" text="What is ONE responsibility that is only for United States citizens?*">
+            <audio>Track 49.mp3</audio>
+            <answers>
+              <answer>serve on a jury</answer>
+              <answer>vote in a federal election</answer>
+            </answers>
+          </question>
+          <question id="50" text="Name ONE right only for United States citizens.">
+            <audio>Track 50.mp3</audio>
+            <answers>
+              <answer>vote in a federal election</answer>
+              <answer>run for federal office</answer>
+            </answers>
+          </question>
+          <question id="51" text="What are TWO rights of everyone living in the United States?">
+            <audio>Track 51.mp3</audio>
+            <answers>
+              <answer>freedom of expression</answer>
+              <answer>freedom of speech</answer>
+              <answer>freedom of assembly</answer>
+              <answer>freedom to petition the government</answer>
+              <answer>freedom of worship</answer>
+              <answer>the right to bear arms</answer>
+            </answers>
+          </question>
+          <question id="52" text="What do we show loyalty to when we say the Pledge of Allegiance?">
+            <audio>Track 52.mp3</audio>
+            <answers>
+              <answer>the United States</answer>
+              <answer>the flag</answer>
+            </answers>
+          </question>
+          <question id="53" text="What is ONE promise you make when you become a United States citizen?">
+            <audio>Track 53.mp3</audio>
+            <answers>
+              <answer>give up loyalty to other countries</answer>
+              <answer>defend the Constitution and laws of the United States</answer>
+              <answer>obey the laws of the United States</answer>
+              <answer>serve in the U.S. military (if needed)</answer>
+              <answer>serve (do important work for) the nation (if needed)</answer>
+              <answer>be loyal to the United States</answer>
+            </answers>
+          </question>
+          <question id="54" text="How old do citizens have to be to vote for President?*">
+            <audio>Track 54.mp3</audio>
+            <answers>
+              <answer>eighteen (18) and older</answer>
+            </answers>
+          </question>
+          <question id="55" text="What are TWO ways that Americans can participate in their democracy?">
+            <audio>Track 55.mp3</audio>
+            <answers>
+              <answer>vote</answer>
+              <answer>join a political party</answer>
+              <answer>help with a campaign</answer>
+              <answer>join a civic group</answer>
+              <answer>join a community group</answer>
+              <answer>give an elected official your opinion on an issue</answer>
+              <answer>call Senators and Representatives</answer>
+              <answer>publicly support or oppose an issue or policy</answer>
+              <answer>run for office</answer>
+              <answer>write to a newspaper</answer>
+            </answers>
+          </question>
+          <question id="56" text="When is the last day you can send in federal income tax forms?*">
+            <audio>Track 56.mp3</audio>
+            <answers>
+              <answer>April 15</answer>
+            </answers>
+          </question>
+          <question id="57" text="When must all men register for the Selective Service?">
+            <audio>Track 57.mp3</audio>
+            <answers>
+              <answer>at age eighteen (18)</answer>
+              <answer>between eighteen (18) and twenty-six (26)</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+    </category>
+    <category name="AMERICAN HISTORY">
+      <subcategory name="Colonial Period and Independence">
+        <questions>
+          <question id="58" text="What is ONE reason colonists came to America?">
+            <audio>Track 58.mp3</audio>
+            <answers>
+              <answer>freedom</answer>
+              <answer>political liberty</answer>
+              <answer>religious freedom</answer>
+              <answer>economic opportunity</answer>
+              <answer>practice their religion</answer>
+              <answer>escape persecution</answer>
+            </answers>
+          </question>
+          <question id="59" text="Who lived in America before the Europeans arrived?">
+            <audio>Track 59.mp3</audio>
+            <answers>
+              <answer>American Indians</answer>
+              <answer>Native Americans</answer>
+            </answers>
+          </question>
+          <question id="60" text="What group of people was taken to America and sold as slaves?">
+            <audio>Track 60.mp3</audio>
+            <answers>
+              <answer>Africans</answer>
+              <answer>people from Africa</answer>
+            </answers>
+          </question>
+          <question id="61" text="Why did the colonists fight the British?">
+            <audio>Track 61.mp3</audio>
+            <answers>
+              <answer>because of high taxes (taxation without representation)</answer>
+              <answer>because the British army stayed in their houses (boarding, quartering)</answer>
+              <answer>because they didn't have self-government</answer>
+            </answers>
+          </question>
+          <question id="62" text="Who wrote the Declaration of Independence?">
+            <audio>Track 62.mp3</audio>
+            <answers>
+              <answer>(Thomas) Jefferson</answer>
+            </answers>
+          </question>
+          <question id="63" text="When was the Declaration of Independence adopted?">
+            <audio>Track 63.mp3</audio>
+            <answers>
+              <answer>July 4, 1776</answer>
+            </answers>
+          </question>
+          <question id="64" text="There were 13 original states. Name THREE.">
+            <audio>Track 64.mp3</audio>
+            <answers>
+              <answer>New Hampshire</answer>
+              <answer>Massachusetts</answer>
+              <answer>Rhode Island</answer>
+              <answer>Connecticut</answer>
+              <answer>New York</answer>
+              <answer>New Jersey</answer>
+              <answer>Pennsylvania</answer>
+              <answer>Delaware</answer>
+              <answer>Maryland</answer>
+              <answer>Virginia</answer>
+              <answer>North Carolina</answer>
+              <answer>South Carolina</answer>
+              <answer>Georgia</answer>
+            </answers>
+          </question>
+          <question id="65" text="What happened at the Constitutional Convention?">
+            <audio>Track 65.mp3</audio>
+            <answers>
+              <answer>The Constitution was written.</answer>
+              <answer>The Founding Fathers wrote the Constitution.</answer>
+            </answers>
+          </question>
+          <question id="66" text="When was the Constitution written?">
+            <audio>Track 66.mp3</audio>
+            <answers>
+              <answer>1787</answer>
+            </answers>
+          </question>
+          <question id="67" text="The Federalist Papers supported the passage of the U.S. Constitution. Name ONE of the writers.">
+            <audio>Track 67.mp3</audio>
+            <answers>
+              <answer>(James) Madison</answer>
+              <answer>(Alexander) Hamilton</answer>
+              <answer>(John) Jay</answer>
+              <answer>Publius</answer>
+            </answers>
+          </question>
+          <question id="68" text="What is ONE thing Benjamin Franklin is famous for?">
+            <audio>Track 68.mp3</audio>
+            <answers>
+              <answer>U.S. diplomat</answer>
+              <answer>oldest member of the Constitutional Convention</answer>
+              <answer>first Postmaster General of the United States</answer>
+              <answer>writer of "Poor Richard's Almanac"</answer>
+              <answer>started the first free libraries</answer>
+            </answers>
+          </question>
+          <question id="69" text="Who is the &quot;Father of Our Country&quot;?">
+            <audio>Track 69.mp3</audio>
+            <answers>
+              <answer>(George) Washington</answer>
+            </answers>
+          </question>
+          <question id="70" text="Who was the first President?*">
+            <audio>Track 70.mp3</audio>
+            <answers>
+              <answer>(George) Washington</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+      <subcategory name="1800s">
+        <questions>
+          <question id="71" text="What territory did the United States buy from France in 1803?">
+            <audio>Track 71.mp3</audio>
+            <answers>
+              <answer>the Louisiana Territory</answer>
+              <answer>Louisiana</answer>
+            </answers>
+          </question>
+          <question id="72" text="Name ONE war fought by the United States in the 1800s.">
+            <audio>Track 72.mp3</audio>
+            <answers>
+              <answer>War of 1812</answer>
+              <answer>Mexican-American War</answer>
+              <answer>Civil War</answer>
+              <answer>Spanish-American War</answer>
+            </answers>
+          </question>
+          <question id="73" text="Name the U.S. war between the North and the South.">
+            <audio>Track 73.mp3</audio>
+            <answers>
+              <answer>the Civil War</answer>
+              <answer>the War between the States</answer>
+            </answers>
+          </question>
+          <question id="74" text="Name ONE problem that led to the Civil War.">
+            <audio>Track 74.mp3</audio>
+            <answers>
+              <answer>slavery</answer>
+              <answer>economic reasons</answer>
+              <answer>states' rights</answer>
+            </answers>
+          </question>
+          <question id="75" text="What was ONE important thing that Abraham Lincoln did?*">
+            <audio>Track 75.mp3</audio>
+            <answers>
+              <answer>freed the slaves (Emancipation Proclamation)</answer>
+              <answer>saved (or preserved) the Union</answer>
+              <answer>led the United States during the Civil War</answer>
+            </answers>
+          </question>
+          <question id="76" text="What did the Emancipation Proclamation do?">
+            <audio>Track 76.mp3</audio>
+            <answers>
+              <answer>freed the slaves</answer>
+              <answer>freed slaves in the Confederacy</answer>
+              <answer>freed slaves in the Confederate states</answer>
+              <answer>freed slaves in most Southern states</answer>
+            </answers>
+          </question>
+          <question id="77" text="What did Susan B. Anthony do?">
+            <audio>Track 77.mp3</audio>
+            <answers>
+              <answer>fought for women's rights</answer>
+              <answer>fought for civil rights</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+      <subcategory name="Recent American History and Other Important Historical Information">
+        <questions>
+          <question id="78" text="Name ONE war fought by the United States in the 1900s.*">
+            <audio>Track 78.mp3</audio>
+            <answers>
+              <answer>World War I</answer>
+              <answer>World War II</answer>
+              <answer>Korean War</answer>
+              <answer>Vietnam War</answer>
+              <answer>(Persian) Gulf War</answer>
+            </answers>
+          </question>
+          <question id="79" text="Who was President during World War I?">
+            <audio>Track 79.mp3</audio>
+            <answers>
+              <answer>(Woodrow) Wilson</answer>
+            </answers>
+          </question>
+          <question id="80" text="Who was President during the Great Depression and World War II?">
+            <audio>Track 80.mp3</audio>
+            <answers>
+              <answer>(Franklin) Roosevelt</answer>
+            </answers>
+          </question>
+          <question id="81" text="Who did the United States fight in World War II?">
+            <audio>Track 81.mp3</audio>
+            <answers>
+              <answer>Japan, Germany, and Italy</answer>
+            </answers>
+          </question>
+          <question id="82" text="Before he was President, Eisenhower was a general. What war was he in?">
+            <audio>Track 82.mp3</audio>
+            <answers>
+              <answer>World War II</answer>
+            </answers>
+          </question>
+          <question id="83" text="During the Cold War, what was the main concern of the United States?">
+            <audio>Track 83.mp3</audio>
+            <answers>
+              <answer>Communism</answer>
+            </answers>
+          </question>
+          <question id="84" text="What movement tried to end racial discrimination?">
+            <audio>Track 84.mp3</audio>
+            <answers>
+              <answer>civil rights (movement)</answer>
+            </answers>
+          </question>
+          <question id="85" text="What did Martin Luther King, Jr. do?*">
+            <audio>Track 85.mp3</audio>
+            <answers>
+              <answer>fought for civil rights</answer>
+              <answer>worked for equality for all Americans</answer>
+            </answers>
+          </question>
+          <question id="86" text="What major event happened on September 11, 2001, in the United States?">
+            <audio>Track 86.mp3</audio>
+            <answers>
+              <answer>Terrorists attacked the United States.</answer>
+            </answers>
+          </question>
+          <question id="87" text="Name ONE American Indian tribe in the United States. [USCIS Officers will be supplied with a list of federally recognized American Indian tribes.]">
+            <audio>Track 87.mp3</audio>
+            <answers>
+              <answer>Cherokee</answer>
+              <answer>Navajo</answer>
+              <answer>Sioux</answer>
+              <answer>Chippewa</answer>
+              <answer>Choctaw</answer>
+              <answer>Pueblo</answer>
+              <answer>Apache</answer>
+              <answer>Iroquois</answer>
+              <answer>Creek</answer>
+              <answer>Blackfeet</answer>
+              <answer>Seminole</answer>
+              <answer>Cheyenne</answer>
+              <answer>Arawak</answer>
+              <answer>Shawnee</answer>
+              <answer>Mohegan</answer>
+              <answer>Huron</answer>
+              <answer>Oneida</answer>
+              <answer>Lakota</answer>
+              <answer>Crow</answer>
+              <answer>Teton</answer>
+              <answer>Hopi</answer>
+              <answer>Inuit</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+    </category>
+    <category name="INTEGRATED CIVICS">
+      <subcategory name="Geography">
+        <questions>
+          <question id="88" text="Name ONE of the two longest rivers in the United States.">
+            <audio>Track 88.mp3</audio>
+            <answers>
+              <answer>Missouri (River)</answer>
+              <answer>Mississippi (River)</answer>
+            </answers>
+          </question>
+          <question id="89" text="What ocean is on the West Coast of the United States?">
+            <audio>Track 89.mp3</audio>
+            <answers>
+              <answer>Pacific (Ocean)</answer>
+            </answers>
+          </question>
+          <question id="90" text="What ocean is on the East Coast of the United States?">
+            <audio>Track 90.mp3</audio>
+            <answers>
+              <answer>Atlantic (Ocean)</answer>
+            </answers>
+          </question>
+          <question id="91" text="Name ONE U.S. territory.">
+            <audio>Track 91.mp3</audio>
+            <answers>
+              <answer>Puerto Rico</answer>
+              <answer>U.S. Virgin Islands</answer>
+              <answer>American Samoa</answer>
+              <answer>Northern Mariana Islands</answer>
+              <answer>Guam</answer>
+            </answers>
+          </question>
+          <question id="92" text="Name ONE state that borders Canada.">
+            <audio>Track 92.mp3</audio>
+            <answers>
+              <answer>Maine</answer>
+              <answer>New Hampshire</answer>
+              <answer>Vermont</answer>
+              <answer>New York</answer>
+              <answer>Pennsylvania</answer>
+              <answer>Ohio</answer>
+              <answer>Michigan</answer>
+              <answer>Minnesota</answer>
+              <answer>North Dakota</answer>
+              <answer>Montana</answer>
+              <answer>Idaho</answer>
+              <answer>Washington</answer>
+              <answer>Alaska</answer>
+            </answers>
+          </question>
+          <question id="93" text="Name ONE state that borders Mexico.">
+            <audio>Track 93.mp3</audio>
+            <answers>
+              <answer>California</answer>
+              <answer>Arizona</answer>
+              <answer>New Mexico</answer>
+              <answer>Texas</answer>
+            </answers>
+          </question>
+          <question id="94" text="What is the capital of the United States?*">
+            <audio>Track 94.mp3</audio>
+            <answers>
+              <answer>Washington, D.C.</answer>
+            </answers>
+          </question>
+          <question id="95" text="Where is the Statue of Liberty?*">
+            <audio>Track 95.mp3</audio>
+            <answers>
+              <answer>New York (Harbor)</answer>
+              <answer>Liberty Island</answer>
+              <answer>[Also acceptable are New Jersey, near New York City, and on the Hudson (River).]</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+      <subcategory name="Symbols">
+        <questions>
+          <question id="96" text="Why does the flag have 13 stripes?">
+            <audio>Track 96.mp3</audio>
+            <answers>
+              <answer>because there were 13 original colonies</answer>
+              <answer>because the stripes represent the original colonies</answer>
+            </answers>
+          </question>
+          <question id="97" text="Why does the flag have 50 stars?*">
+            <audio>Track 97.mp3</audio>
+            <answers>
+              <answer>because there is one star for each state</answer>
+              <answer>because each star represents a state</answer>
+              <answer>because there are 50 states</answer>
+            </answers>
+          </question>
+          <question id="98" text="What is the name of the national anthem?">
+            <audio>Track 98.mp3</audio>
+            <answers>
+              <answer>The Star-Spangled Banner</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+      <subcategory name="Holidays">
+        <questions>
+          <question id="99" text="When do we celebrate Independence Day?*">
+            <audio>Track 99.mp3</audio>
+            <answers>
+              <answer>July 4</answer>
+            </answers>
+          </question>
+          <question id="100" text="Name TWO national U.S. holidays.">
+            <audio>Track 100.mp3</audio>
+            <answers>
+              <answer>New Year's Day</answer>
+              <answer>Martin Luther King, Jr. Day</answer>
+              <answer>Presidents' Day</answer>
+              <answer>Memorial Day</answer>
+              <answer>Independence Day</answer>
+              <answer>Labor Day</answer>
+              <answer>Columbus Day</answer>
+              <answer>Veterans Day</answer>
+              <answer>Thanksgiving</answer>
+              <answer>Christmas</answer>
+            </answers>
+          </question>
+        </questions>
+      </subcategory>
+    </category>
+  </categories>
+</root>
